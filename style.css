@@ -1,0 +1,73 @@
+body{
+    padding-top: 15px;
+}
+
+h1{
+  text-align: center;
+}
+
+.container{
+  border-style: solid;
+  border-color: lightsteelblue;
+  padding: 17px;
+}
+
+.row{
+  border-style: solid;
+  border-color: tan;
+  padding: 5px;
+}
+
+.col{
+  border-style: solid;
+  border-color: thistle;
+  padding: 5px;
+}
+
+.col-2{
+  border-style: dotted;
+  border-color: thistle;
+  padding: 5px;
+}
+
+.col-3{
+  border-style: solid;
+  border-color: thistle;
+  padding: 5px;
+}
+
+.col-4{
+  border-style: dotted;
+  border-color: thistle;
+  padding: 5px;
+}
+
+.col-6{
+  border-style: dotted;
+  border-color: thistle;
+  padding: 5px;
+}
+
+.col-12{
+  border-style: dotted;
+  border-color: thistle;
+  padding: 5px;
+}
+
+.col-sm-12{
+  border-style: dashed;
+  border-color: olive;
+  padding: 5px;
+}
+
+.col-md-6{
+  border-style: dashed;
+  border-color: olive;
+  padding: 5px;
+}
+
+.col-lg-3{
+  border-style: dashed;
+  border-color: olive;
+  padding: 5px;
+}
